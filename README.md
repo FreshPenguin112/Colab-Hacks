@@ -4,7 +4,7 @@
 Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
 
 
-## [Colab RDP](Colab%20RDP/Colab%20RDP.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][RDP Notebook] [![RDP Issues][RDP Issues]](https://github.com/FreshPenguin112/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb)
+## [Colab RDP](Colab%20RDP/Colab%20RDP.ipynb) &nbsp;&nbsp; [![Open in Clab][Colab Badge]][RDP Notebook] [![RDP Issues][RDP Issues]](https://github.com/FreshPenguin112/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb)
 
 Colab RDP is used to get **Remote Connection** to Google Colaboratory with graphic user interface. It can be used to boost your productivity and you can perform heavy task without any worries.
 
@@ -46,7 +46,7 @@ This means all the notebooks present in this repository are prohibited and use w
 [Colab Badge]:          https://colab.research.google.com/assets/colab-badge.svg
 [License-Badge]:        https://img.shields.io/badge/License-MIT-blue.svg
 [RDP Issues]:           https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Colab%20RDP?label=Issues
-[RDP Notebook]:         https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb
+[RDP Notebook]:         https://colab.research.google.com/github/FreshPenguin112/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb
 [Code Issues]:          https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Code%20Server?label=Issues
 [Code Notebook]:        https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Code%20Server/Code%20Server.ipynb
 [Torrent Issues]:       https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Torrent%20Downloader?label=Issues
